@@ -13,7 +13,8 @@ My primary interest lies in the realm of backend development. I find the logic a
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/getlies"><img align="right" width="100" src="assets/ava-experience.png"></a>
+<a href="https://github.com/getlies"><img align="right" width="100" src="https://i.ibb.co.com/WWBhc1qq/ava-experience.png"></a>
+As a Software Engineering, I'm increasingly drawn to the intricacies of backend development. I'm actively seeking opportunities to specialize in server-side technologies, database management, and API design. My aim is to build a strong foundation and eventually contribute as a skilled backend developer, creating robust and efficient solutions.
 
 
 ## **📊 Github Stats**
