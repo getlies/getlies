@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/ym0kj1kk/bg.webp)
+![Banner](assets/bg.webp)
 
 <a href="https://discord.com/users/1360329973717794886"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/1360329973717794886?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
@@ -8,12 +8,12 @@
 **Backend Developer** 
 
 ## **☕ About me**
-<a href="https://github.com/getlies"><img align="left" width="100" src="https://i.ibb.co.com/1xQKZ0x/ava-aboutme.webp"></a>
+<a href="https://github.com/getlies"><img align="left" width="100" src="assets/ava-aboutme.webp"></a>
 My primary interest lies in the realm of backend development. I find the logic and architecture behind applications particularly fascinating. While I enjoy gaming and listening to a wide variety of music.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/getlies"><img align="right" width="100" src="https://i.ibb.co.com/WWBhc1qq/ava-experience.png"></a>
+<a href="https://github.com/getlies"><img align="right" width="100" src="assets/ava-experience.png"></a>
 
 
 ## **📊 Github Stats**
@@ -29,7 +29,7 @@ My primary interest lies in the realm of backend development. I find the logic a
 
 ## **🧋Pages Counter**
 <a href="https://discord.com/users/1360329973717794886"><img align="right" width=400 src="https://count.getloli.com/@getlies?name=getlies&theme=booru-lewd&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
-<a href="https://github.com/getlies"><img align="left" width="100" src="https://i.ibb.co.com/spzCXXny/ava-counter.png"></a>
+<a href="https://github.com/getlies"><img align="left" width="100" src="assets/ava-counter.png"></a>
 
 ```yaml
 Someone peeked in! ;3
@@ -38,7 +38,7 @@ Another one checking things out. ;)
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/getlies"><img align="right" width="100" src="https://i.ibb.co.com/V0SX6810/ava-contact.png" /></a>
+<a href="https://github.com/getlies"><img align="right" width="100" src="assets/ava-contact.png" /></a>
 **Please Contact me on Discord for a quick response:** [getlies](https://discord.com/users/1360329973717794886)
 
 **You can also email me here:** morphoit@outlook.com
