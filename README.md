@@ -14,7 +14,6 @@ My primary interest lies in the realm of backend development. I find the logic a
 
 ## **💻 Experience**
 <a href="https://github.com/getlies"><img align="right" width="100" src="https://i.ibb.co.com/WWBhc1qq/ava-experience.png"></a>
-As a Software Engineering, I'm increasingly drawn to the intricacies of backend development. I'm actively seeking opportunities to specialize in server-side technologies, database management, and API design. My aim is to build a strong foundation and eventually contribute as a skilled backend developer, creating robust and efficient solutions.
 
 
 ## **📊 Github Stats**
@@ -48,4 +47,4 @@ Another one checking things out. ;)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1360329973717794886)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/getlies)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:getlies@outlook.com)
-[![](https://img.shields.io/badge/Morhpoit-ff5c5a?logo=biolink&logoColor=white)](https://morphoit.is-a.dev)
+[![](https://img.shields.io/badge/getlies-ff5c5a?logo=biolink&logoColor=white)](https://morphoit.is-a.dev)
