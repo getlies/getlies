@@ -3,25 +3,25 @@
 <a href="https://discord.com/users/1360329973717794886"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/1360329973717794886?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
-### Hi!👋 I'm Morphoits
+### Hi!👋 I'm getlies
 
 **Backend Developer** 
 
 ## **☕ About me**
-<a href="https://github.com/Morphoits"><img align="left" width="100" src="https://i.ibb.co.com/1xQKZ0x/ava-aboutme.webp"></a>
+<a href="https://github.com/getlies"><img align="left" width="100" src="https://i.ibb.co.com/1xQKZ0x/ava-aboutme.webp"></a>
 My primary interest lies in the realm of backend development. I find the logic and architecture behind applications particularly fascinating. While I enjoy gaming and listening to a wide variety of music.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/Morphoits"><img align="right" width="100" src="https://i.ibb.co.com/WWBhc1qq/ava-experience.png"></a>
+<a href="https://github.com/getlies"><img align="right" width="100" src="https://i.ibb.co.com/WWBhc1qq/ava-experience.png"></a>
 As a Software Engineering, I'm increasingly drawn to the intricacies of backend development. I'm actively seeking opportunities to specialize in server-side technologies, database management, and API design. My aim is to build a strong foundation and eventually contribute as a skilled backend developer, creating robust and efficient solutions.
 
 
 ## **📊 Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Morphoits&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morphoits&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=getlies&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getlies&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-<!-- ![snake gif](https://github.com/morphoits/morphoits/blob/output/github-snake-dark.svg) -->
+<!-- ![snake gif](https://github.com/getlies/getlies/blob/output/github-snake-dark.svg) -->
 
 <!-- ## **🎧 Spotify**
 <p align="center">
@@ -29,8 +29,8 @@ As a Software Engineering, I'm increasingly drawn to the intricacies of backend 
 </p> -->
 
 ## **🧋Pages Counter**
-<a href="https://discord.com/users/1360329973717794886"><img align="right" width=400 src="https://count.getloli.com/@morphoits?name=morphoits&theme=booru-lewd&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
-<a href="https://github.com/Morphoits"><img align="left" width="100" src="https://i.ibb.co.com/spzCXXny/ava-counter.png"></a>
+<a href="https://discord.com/users/1360329973717794886"><img align="right" width=400 src="https://count.getloli.com/@getlies?name=getlies&theme=booru-lewd&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
+<a href="https://github.com/getlies"><img align="left" width="100" src="https://i.ibb.co.com/spzCXXny/ava-counter.png"></a>
 
 ```yaml
 Someone peeked in! ;3
@@ -39,13 +39,13 @@ Another one checking things out. ;)
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/Morphoits"><img align="right" width="100" src="https://i.ibb.co.com/V0SX6810/ava-contact.png" /></a>
-**Please Contact me on Discord for a quick response:** [morphoits](https://discord.com/users/1360329973717794886)
+<a href="https://github.com/getlies"><img align="right" width="100" src="https://i.ibb.co.com/V0SX6810/ava-contact.png" /></a>
+**Please Contact me on Discord for a quick response:** [getlies](https://discord.com/users/1360329973717794886)
 
 **You can also email me here:** morphoit@outlook.com
 
-[![](https://img.shields.io/github/followers/Morphoits?label=Followers&style=social)](https://github.com/Morphoits)
+[![](https://img.shields.io/github/followers/getlies?label=Followers&style=social)](https://github.com/getlies)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1360329973717794886)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Morphoits)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:morphoits@outlook.com)
+[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/getlies)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:getlies@outlook.com)
 [![](https://img.shields.io/badge/Morhpoit-ff5c5a?logo=biolink&logoColor=white)](https://morphoit.is-a.dev)
