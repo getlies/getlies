@@ -1,8 +1,5 @@
 ![Banner](assets/bg.webp)
 
-<a href="https://discord.com/users/1360329973717794886"><img align="right" width="425" src="https://lanyard.kyrie25.dev/api/353639776609632256?theme=dark"></a>
-
-
 ### Hi!👋 I'm getlies
 
 **Backend Developer** 
