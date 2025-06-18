@@ -1,5 +1,5 @@
 ![Banner](assets/bg.webp)
-
+<a href="https://discord.com/users/1360329973717794886"><img align="center" width="200" src="https://lanyard.kyrie25.dev/api/353639776609632256?theme=dark"></a>
 ### Hi!👋 I'm getlies
 
 **Backend Developer** 
@@ -45,5 +45,3 @@ Another one checking things out. ;)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1360329973717794886)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/getlies)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:getlies@outlook.com)
-[![](https://img.shields.io/badge/getlies-ff5c5a?logo=biolink&logoColor=white)](https://morphoit.is-a.dev)
-<a href="https://discord.com/users/1360329973717794886"><img align="center" width="250" src="https://lanyard.kyrie25.dev/api/353639776609632256?theme=dark"></a>
