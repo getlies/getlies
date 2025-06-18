@@ -1,6 +1,6 @@
 ![Banner](assets/bg.webp)
 
-<a href="https://discord.com/users/1360329973717794886"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/1360329973717794886?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.com/users/1360329973717794886"><img align="right" width="425" src="https://lanyard.kyrie25.dev/api/353639776609632256?theme=dark"></a>
 
 
 ### Hi!👋 I'm getlies
