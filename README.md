@@ -36,7 +36,7 @@ Another one checking things out. ;)
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/getlies"><img align="right" width="100" src="assets/ava-contact.png" /></a>
+<a href="https://github.com/getlies"><img align="right" width="100" src="https://avatars.githubusercontent.com/getlies" /></a>
 **Please Contact me on Discord for a quick response:** [getlies](https://discord.com/users/1360329973717794886)
 
 **You can also email me here:** morphoit@outlook.com
